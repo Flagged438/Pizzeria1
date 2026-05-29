@@ -1,0 +1,14 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Spring Boot-PersonaApplication<persona>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "mainClass": "com.itat.persona.PersonaApplication",
+            "projectName": "persona",
+            "args": "",
+            "envFile": "${workspaceFolder}/.env"
+        }
+    ]
+}
